@@ -1,5 +1,3 @@
-<small>{docsify-updated}</small>
-
 　　这是一篇自用笔记，记载着Markdown + docsify自定义功能/插件的使用方式。
 
 ---
