@@ -4,11 +4,11 @@
     <!--不被搜索引擎搜到-->
     <meta name="robots" content="noindex, nofollow">
     <meta charset="UTF-8">
-    <title>Document</title>
+    <title>Emily's Notebook</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="description" content="Description">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+    <link href="media/vue.css" rel="stylesheet">
   </head>
   <body>
     <!--加载词-->
@@ -20,7 +20,7 @@
         loadNavbar: 'docs/_navbar.md',
         loadSidebar: 'docs/_sidebar.md',
         maxLevel: 4,
-        subMaxLevel: 2,
+        subMaxLevel: 3,
         auto2top: true,
         autoHeader: true,
         mergeNavbar: true,
@@ -35,7 +35,7 @@
           placeholder: '输入关键词搜索...',
           noData: '没有结果！',
           // 搜索标题的最大层级, 1 - 6
-          depth: 2,
+          depth: 6,
         },
 
         // 代码复制框
@@ -80,5 +80,6 @@
     <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-select@1"></script>
     <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
+    
   </body>
 </html>
