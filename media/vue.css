@@ -642,6 +642,9 @@ body {
 .markdown-section h2 {
   font-size: 1.75rem;
   margin: 45px 0 0.8rem;
+  border-width: 0 0 1px 0;
+  border-style: solid;
+  border-color: hsl(0%, 0%, 89%);
 }
 .markdown-section h3 {
   font-size: 1.5rem;
