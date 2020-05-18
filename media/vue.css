@@ -644,7 +644,8 @@ body {
   margin: 45px 0 0.8rem;
   border-width: 0 0 1px 0;
   border-style: solid;
-  border-color: hsl(0%, 0%, 89%);
+  border-color: hsl(113, 0%, 89%);
+  padding: 0 0 1rem 0;
 }
 .markdown-section h3 {
   font-size: 1.5rem;
