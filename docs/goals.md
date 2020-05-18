@@ -2,6 +2,8 @@
 
 - <span style="color:red;font-weight:bold">截至日：明年12月</span>
 
+---
+
 #### 需要完成的目标：
 
 1. 按顺序学习语言基础；
